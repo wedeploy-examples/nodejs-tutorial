@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-nodejs",
+  "name": "tutorial-nodejs",
   "version": "1.0.0",
-  "description": "A boilerplate that demonstrates the Node.js container",
+  "description": "A tutorial that teaches how to use the WeDeploy Node.js service",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
